@@ -1,0 +1,16 @@
+gulp/local-conf.js
+test-results.xml
+*.tar
+*.tar.gz
+debug.log
+configurations/config.local.json
+node_modules/
+bower_components/
+coverage/
+.sass-cache/
+.idea/
+.tmp/
+dist/
+e2e/protractor-reports/*.xml
+e2e/protractor-reports/*.html
+*.iml

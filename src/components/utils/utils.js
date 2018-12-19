@@ -27,9 +27,4 @@ function AoUtils($window, $document) {
     }
     return "";
   }
-
-  function sum(a, b) {
-    return a+b;
-  }
-
 }
