@@ -5,7 +5,7 @@
     "https://github.com/GollaVenkatesh/aopUtils",
   "authors": ["venkatesh"],
   "description": "Global Utils for AOP",
-  "main": ["dist/aopUtils.min.js"],
+  "main": ["dist/aoGlobalUtils.min.js"],
   "keywords": ["angular", "utils"],
   "license": "MIT",
   "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"],
