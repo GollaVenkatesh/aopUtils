@@ -10,7 +10,10 @@
     "type": "git",
     "url": "https://github.com/GollaVenkatesh/aopUtils"
   },
-  "keywords": ["utils", "angular"],
+  "keywords": [
+    "utils",
+    "angularJS"
+  ],
   "author": "venkatesh",
   "license": "MIT",
   "bugs": {

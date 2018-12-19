@@ -1,14 +1,27 @@
 {
   "name": "aopUtils",
-  "version": "0.7.5",
+  "version": "0.1.0",
   "homepage":
     "https://github.com/GollaVenkatesh/aopUtils",
-  "authors": ["venkatesh"],
+  "authors": [
+    "lyle Johnston",
+    "venkatesh"
+  ],
   "description": "Global Utils for AOP",
-  "main": ["dist/aoGlobalUtils.min.js"],
-  "keywords": ["angular", "utils"],
+  "main": [
+    "dist/aoGlobalUtils.min.js"
+  ],
+  "keywords": [
+    "angularJS",
+    "utils"
+  ],
   "license": "MIT",
-  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"],
+  "ignore": [
+    "**/.*", "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "dependencies": {
     "angular": "~1.4.9"
   }
