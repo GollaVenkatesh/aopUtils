@@ -5,7 +5,7 @@ var globalUtils = angular.module("globalUtils", []);
 globalUtils.service("AoUtils", AoUtils);
 
 /* @ngInject */
-function AoUtils($window, $document) {
+function AoUtils() {
   var service = this;
 
   // UTILITY METHODS
@@ -31,11 +31,6 @@ function AoUtils($window, $document) {
     }
     return "";
   }
-
-  function sum(a, b) {
-    return a+b;
-  }
-
 }
 
 })();

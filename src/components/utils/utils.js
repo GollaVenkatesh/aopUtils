@@ -1,7 +1,7 @@
 globalUtils.service("AoUtils", AoUtils);
 
 /* @ngInject */
-function AoUtils($window, $document) {
+function AoUtils() {
   var service = this;
 
   // UTILITY METHODS
